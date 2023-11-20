@@ -19,6 +19,7 @@
 <li>React(TS/JS)</li>
 <li>C# WebApi</li>
 <li>SQL</li>
+<li>GIT</li>
 <li>Postman</li>
 <li>VS Code</li>
 </ul>
