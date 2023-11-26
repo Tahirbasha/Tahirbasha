@@ -9,7 +9,7 @@
 
 - 📫 Reach me on <a href="https://linkedin.com/in/linkedin.com/in/tahirbasha-maligaveli-45b829225" target="_blank">LINKEDIN</a>
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1XgoBg8-2S3_mLL_xepe4RLAIycLmuw5WOryRW8qDynU/edit?usp=sharing">RESUME</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1GkOYU4PtUYIW4fUdIrhjKML89kDiI9Ugya37h3E052E/edit?usp=sharing">RESUME</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
