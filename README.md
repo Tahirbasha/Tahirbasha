@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NeoTadd**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, C# webapi**
+- 💬 Ask me about **React,React-Native JavaScript, TypeScript, C# webapi**
 
 - 📫 Reach me on <a href="https://linkedin.com/in/linkedin.com/in/tahirbasha-maligaveli-45b829225" target="_blank">LINKEDIN</a>
 
@@ -17,6 +17,7 @@
 <li>CSS</li>
 <li>Javascript</li>
 <li>React(TS/JS)</li>
+<li>React-Native</li>
 <li>C# WebApi</li>
 <li>SQL</li>
 <li>GIT</li>
