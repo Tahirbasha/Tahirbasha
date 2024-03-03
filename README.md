@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React, React-Native, JavaScript, TypeScript, C# webapi**
 
-- 📫 Reach me on <a href="https://www.linkedin.com/in/tahirbasha-maligaveli-45b829225" target="_blank">LINKEDIN</a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/tahirbasha-maligaveli-45b829225" style="text-decoration: none;" target="_blank">LINKEDIN</a>
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1DxzifZ0sJq60ftDimAArAfUnNca71_--TCHMjmFbuaU/edit?usp=sharing" target="_blank">RESUME</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1BaIEvyJhIyn4m6rFsGiKAlK1ijH_y6cHQLzkU2e0hao/edit?usp=sharing" style="text-decoration: none;" target="_blank">RESUME</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
